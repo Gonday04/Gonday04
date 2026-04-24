@@ -1,13 +1,3 @@
-<div align="center">
-  <img height="200" src="https://wallpapers.com/images/hd/ultrawide-mountains-99hlp4zub3yqfy0o.jpg"  />
-</div>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
