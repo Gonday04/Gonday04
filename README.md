@@ -4,14 +4,7 @@
 
 ###
 
-<p align="left">Hello World!! Soy David Sánchez Mendoza 👋</p>
-
-Soy estudiante de **Ingeniería en Sistemas Computacionales**. Me apasiona el desarrollo de software, la inteligencia artificial y el hardware de alto rendimiento.
-
-## 🚀 Proyectos Principales
-- **Local Synapse:** Edge Computing y AI para control de calidad industrial.
-- **OpticGuard:** Reconocimiento facial optimizado en Assembly para Raspberry Pi.
-- **Stratford Exams:** Sistema colaborativo de gestión académica.
+<p align="left">Hello World!!</p>
 
 ###
 
@@ -38,9 +31,7 @@ Soy estudiante de **Ingeniería en Sistemas Computacionales**. Me apasiona el de
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/tu-usuario" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <a href="https://www.instagram.com/gonday._?igsh=MXF5cmFpMzN6ZGdlMA==" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
@@ -70,7 +61,7 @@ Soy estudiante de **Ingeniería en Sistemas Computacionales**. Me apasiona el de
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/TU_ID_DE_SPOTIFY">
+  <a href="https://open.spotify.com/user/DAVIS">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=DAVIS&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
